@@ -1,0 +1,11 @@
+.container {
+    width: 90%;
+}
+
+.portfolio .pics {
+    grid-template-columns: repeat(2, 50%);
+}
+
+.statics .container {
+    grid-template-columns: repeat(2, 50%);
+}
